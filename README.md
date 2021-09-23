@@ -5,4 +5,4 @@
 - 📚 I’m a **Student**. *I love to learn, daily. Be it an algo, ds, song, software or a word.*
 - 🎨 I’m an **Artist**. *I like to design using code. My forte is talking to colors while coding.*
 - 🚀 I’m on a **Pursuit**. *I want to do something that makes a difference in millions of lives.* 
-- 💬 I'm on **LinkedIn**. *[Connect](www.linkedin.com/in/thisisadityasingh)*
+- 💬 I'm on **LinkedIn**. *[Connect](https://www.linkedin.com/in/thisisadityasingh/)*
